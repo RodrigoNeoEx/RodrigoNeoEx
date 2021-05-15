@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="gitHub" width="22px" color="white" src="./icons8-github.svg" />][website]
+[<img align="left" alt="gitHub" width="22px" color="white" src="./icons8-github-64.png" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codePen]
 
