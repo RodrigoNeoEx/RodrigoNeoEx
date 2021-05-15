@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="gitHub" width="22px" color="white" src="./icons8-github-64.png" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codePen]
+[<img align="left" alt="gitHub" width="40px" color="white" src="./icons8-github-64.png" />][website]
+[<img align="left" alt="LinkedIn" width="40px" src="./icons8-linkedin-64.png" />][linkedin]
+[<img align="left" alt="codePen" width="40px" src="./icons8-codepen-50.png" />][codePen]
 
 
 
@@ -28,7 +28,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="./icons8-github-48.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
