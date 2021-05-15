@@ -46,3 +46,5 @@
 [website]: https://rodrigoneoex.github.io/neoPortfolio/
 [linkedin]: https://www.linkedin.com/in/rodrigocamargo-neoex/
 [codePen]: https://codepen.io/rodrigoneoex
+
+<a href="https://icons8.com/icon/52539/github">GitHub icon by Icons8</a>
