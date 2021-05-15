@@ -43,8 +43,7 @@
 
 <summary>GitHub Repos</summary>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoNeoEx&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=github-readme-stats&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://rodrigoneoex.github.io/neoPortfolio/
 [linkedin]: https://www.linkedin.com/in/rodrigocamargo-neoex/
