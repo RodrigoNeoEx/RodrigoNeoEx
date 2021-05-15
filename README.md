@@ -1,18 +1,15 @@
-### Hey! I'm Rodrigo 'NeoEx' - [RodrigoNeoEx][website] 👋
+## Hey! I'm Rodrigo 'NeoEx' - [RodrigoNeoEx][website] 👋
 
-## Completely in love with effects, design and all dynamics related to the front end.
-## This is me!
-## My main job is full stack at family stack also studying a lot to be an awesome developer.
-## Currently studying Full Stack Web Development at Trybe and looking for new challenges/jobs in the WebDev market
+### Completely in love with effects, design and all dynamics related to the front end. This is me!
+### My main job is full stack at family stack also studying a lot to be an awesome developer.Currently studying Full Stack Web Development at Trybe and looking for new challenges/jobs in the WebDev market
 
--  I’m currently learning mySQL and all stuffs related to backend
--  I'm looking for my first formal opportunity as a dev with FrontEnd as a priority
--  2021 Goals: Start to contribute in Open Source projects
--  Fun fact: I love cats, music and most of the time I'm coding some visual kinds of stuff
+- :scroll: I’m currently learning mySQL and all stuffs related to backend
+- :fire:  I'm looking for my first formal opportunity as a dev with FrontEnd as a priority
+- :ghost: Fun fact: I love cats, music and most of the time I'm coding some visual kinds of stuff
 
 ### Connect with me:
 
-[<img align="left" alt="gitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="gitHub" width="22px" color="white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codePen]
 
