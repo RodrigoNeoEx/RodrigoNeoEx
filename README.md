@@ -35,11 +35,15 @@
 <br />
 
 ---
-<summary>:zap: GitHub Stats</summary>
+<summary>GitHub Stats</summary>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoNeoEx&&count_private=true&include_all_commits=true&theme=chartreuse-dark&show_icons=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoNeoEx&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<summary>GitHub Repos</summary>
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoNeoEx&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://rodrigoneoex.github.io/neoPortfolio/
