@@ -43,8 +43,6 @@
 
 <summary>GitHub Repos</summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=tryber/sd-09-project-starwars-planets-search&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [website]: https://rodrigoneoex.github.io/neoPortfolio/
 [linkedin]: https://www.linkedin.com/in/rodrigocamargo-neoex/
 [codePen]: https://codepen.io/rodrigoneoex
