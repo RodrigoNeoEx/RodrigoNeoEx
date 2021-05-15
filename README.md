@@ -1,6 +1,7 @@
-## Hey! I'm Rodrigo 'NeoEx' - [RodrigoNeoEx][website] 👋
+## Hey! I'm Rodrigo - [RodrigoNeoEx][website] 👋
 
-### Completely in love with effects, design and all dynamics related to the front end. This is me!
+### Completely in love with effects, design and all dynamics related to the front end.
+### This is me!
 ### My main job is full stack at family stack also studying a lot to be an awesome developer.Currently studying Full Stack Web Development at Trybe and looking for new challenges/jobs in the WebDev market
 
 - :scroll: I’m currently learning mySQL and all stuffs related to backend
@@ -35,12 +36,12 @@
 
 ---
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="RodrigoNeoEx's GitHub Stats" src="https://github-readme-stats.RodrigoNeoEx.vercel.app/api?username=RodrigoNeoEx&show_icons=true&hide_border=true" />
 
-</details>
+
 
 [website]: https://rodrigoneoex.github.io/neoPortfolio/
 [linkedin]: https://www.linkedin.com/in/rodrigocamargo-neoex/
