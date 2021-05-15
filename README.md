@@ -35,13 +35,9 @@
 <br />
 
 ---
+<summary>:zap: GitHub Stats</summary>
 
-
-  <summary>:zap: GitHub Stats</summary>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoNeoEx)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoNeoEx&count_private=true&?hide=stars&include_all_commits=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://rodrigoneoex.github.io/neoPortfolio/
