@@ -3,23 +3,26 @@
 ### Completely in love with effects, design and all dynamics related to the front end.
 ### This is me!
 ### My main job is full stack at family stack also studying a lot to be an awesome developer.Currently studying Full Stack Web Development at Trybe and looking for new challenges/jobs in the WebDev market
+</br>
+<hr>
+</br>
+ <p><img src="./icons8-bookmark-64.png" width="40px"/> I’m currently learning mySQL and all stuffs related to backend </p>
 
-- :scroll: I’m currently learning mySQL and all stuffs related to backend
-- :fire:  I'm looking for my first formal opportunity as a dev with FrontEnd as a priority
-- :ghost: Fun fact: I love cats, music and most of the time I'm coding some visual kinds of stuff
+<p><img src="./icons8-user-male-64.png" width="40px"/>I'm looking for my first formal opportunity as a dev with FrontEnd as a priority </p>
 
-### Connect with me:
+ <p><img src="./icons8-sun-64.png" width="40px"/>About Me: I love cats, music and most of the time I'm coding some visual kinds of stuff </p>
+</br>
+<hr>
+
+<h3>Connect with me:
 
 [<img align="left" alt="gitHub" width="40px" color="white" src="./icons8-github-64.png" />][website]
 [<img align="left" alt="LinkedIn" width="40px" src="./icons8-linkedin-64.png" />][linkedin]
 [<img align="left" alt="codePen" width="40px" src="./icons8-codepen-50.png" />][codePen]
-
-
-
-<br />
-
-### Languages and Tools:
-
+<hr>
+<h3>Languages and Tools:
+<br>
+<br>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -46,3 +49,10 @@
 [website]: https://rodrigoneoex.github.io/neoPortfolio/
 [linkedin]: https://www.linkedin.com/in/rodrigocamargo-neoex/
 [codePen]: https://codepen.io/rodrigoneoex
+
+<style type='text/css'>
+p {
+  display: flex;
+  align-items: center;
+}
+</style>
