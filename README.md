@@ -6,20 +6,33 @@
 </br>
 <hr>
 </br>
- <p><img src="./icons8-bookmark-64.png" width="40px"/> I’m currently learning mySQL and all stuffs related to backend </p>
+<style>
+#teste {
+  display: flex;
+  align-items: center;
+}
+#icons {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+</style>
+ <p id="teste"><img src="./icons8-bookmark-64.png" width="40px"/> I’m currently learning mySQL and all stuffs related to backend </p>
 
-<p><img src="./icons8-user-male-64.png" width="40px"/>I'm looking for my first formal opportunity as a dev with FrontEnd as a priority </p>
+<p id="teste"><img src="./icons8-user-male-64.png" width="40px"/>I'm looking for my first formal opportunity as a dev with FrontEnd as a priority </p>
 
- <p><img src="./icons8-sun-64.png" width="40px"/>About Me: I love cats, music and most of the time I'm coding some visual kinds of stuff </p>
+ <p id="teste"><img src="./icons8-sun-64.png" width="40px"/>About Me: I love cats, music and most of the time I'm coding some visual kinds of stuff </p>
 </br>
 <hr>
 
-<h3>Connect with me:
+<p id="icons"> <h3>Connect with me: </h3>
 
 [<img align="left" alt="gitHub" width="40px" color="white" src="./icons8-github-64.png" />][website]
 [<img align="left" alt="LinkedIn" width="40px" src="./icons8-linkedin-64.png" />][linkedin]
 [<img align="left" alt="codePen" width="40px" src="./icons8-codepen-50.png" />][codePen]
-<hr>
+</p>
+<br>
+<br>
 <h3>Languages and Tools:
 <br>
 <br>
@@ -44,15 +57,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoNeoEx&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<summary>GitHub Repos</summary>
+<!-- <summary>GitHub Repos</summary> -->
 
 [website]: https://rodrigoneoex.github.io/neoPortfolio/
 [linkedin]: https://www.linkedin.com/in/rodrigocamargo-neoex/
 [codePen]: https://codepen.io/rodrigoneoex
-
-<style type='text/css'>
-p {
-  display: flex;
-  align-items: center;
-}
-</style>
