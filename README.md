@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" media="all" href="css.css" />
+
 ## Hey! I'm Rodrigo - [RodrigoNeoEx][website] 👋
 
 ### Completely in love with effects, design and all dynamics related to the front end.
@@ -6,17 +8,7 @@
 </br>
 <hr>
 </br>
-<style>
-#teste {
-  display: flex;
-  align-items: center;
-}
-#icons {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-}
-</style>
+
  <p id="teste"><img src="./icons8-bookmark-64.png" width="40px"/> I’m currently learning mySQL and all stuffs related to backend </p>
 
 <p id="teste"><img src="./icons8-user-male-64.png" width="40px"/>I'm looking for my first formal opportunity as a dev with FrontEnd as a priority </p>
