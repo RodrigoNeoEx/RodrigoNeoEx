@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" media="all" href="css.css" />
-
 ## Hey! I'm Rodrigo - [RodrigoNeoEx][website] 👋
 
 ### Completely in love with effects, design and all dynamics related to the front end.
@@ -8,16 +6,15 @@
 </br>
 <hr>
 </br>
+ <p><img src="./icons8-bookmark-64.png" width="30px"/> I’m currently learning mySQL and all stuffs related to backend </p>
 
- <p id="teste"><img src="./icons8-bookmark-64.png" width="40px"/> I’m currently learning mySQL and all stuffs related to backend </p>
+<p><img src="./icons8-user-male-64.png" width="30px"/>I'm looking for my first formal opportunity as a dev with FrontEnd as a priority </p>
 
-<p id="teste"><img src="./icons8-user-male-64.png" width="40px"/>I'm looking for my first formal opportunity as a dev with FrontEnd as a priority </p>
-
- <p id="teste"><img src="./icons8-sun-64.png" width="40px"/>About Me: I love cats, music and most of the time I'm coding some visual kinds of stuff </p>
+ <p><img src="./icons8-sun-64.png" width="30px"/>About Me: I love cats, music and most of the time I'm coding some visual kinds of stuff </p>
 </br>
 <hr>
 
-<p id="icons"> <h3>Connect with me: </h3>
+<p> <h3>Connect with me: </h3>
 
 [<img align="left" alt="gitHub" width="40px" color="white" src="./icons8-github-64.png" />][website]
 [<img align="left" alt="LinkedIn" width="40px" src="./icons8-linkedin-64.png" />][linkedin]
@@ -43,13 +40,28 @@
 <br />
 
 ---
-<summary>GitHub Stats</summary>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoNeoEx&&count_private=true&include_all_commits=true&theme=chartreuse-dark&show_icons=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoNeoEx&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- <summary>GitHub Repos</summary> -->
+<summary><img src="./icons8-personal-growth-64.png" width="40px"/>GitHub Stats</summary>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoNeoEx&count_private=true&include_all_commits=true&theme=chartreuse-dark&show_icons=true&hide=stars,issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoNeoEx&theme=chartreuse-dark&layout=compact" />
+</a>
+<br>
+<br>
+<summary><img src="./icons8-group-of-projects-64.png" width="40px"/>Last projects carried out:</summary>
+<br>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Recips-App&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=StarWars-PlanetsSearch&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Trivia&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Wallet&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=React-Testing-Library&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=FrontEnd-Online-Store&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Movie-Cards-Crud&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Todo-List-V2&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Jest&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Unit-Tests&theme=chartreuse-dark" />
+</a>
 
 [website]: https://rodrigoneoex.github.io/neoPortfolio/
 [linkedin]: https://www.linkedin.com/in/rodrigocamargo-neoex/
