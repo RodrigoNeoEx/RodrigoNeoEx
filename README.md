@@ -40,7 +40,7 @@
 <br />
 
 ---
-<summary><img src="./icons8-personal-growth-64.png" width="40px"/>GitHub Stats</summary>
+<summary><img src="./icons8-personal-growth-64.png" width="40px"/> GitHub Stats</summary>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoNeoEx&count_private=true&include_all_commits=true&theme=chartreuse-dark&show_icons=true&hide=stars,issues" />
@@ -48,20 +48,73 @@
 </a>
 <br>
 <br>
-<summary><img src="./icons8-group-of-projects-64.png" width="40px"/>Last projects carried out:</summary>
+<hr>
+<summary><img src="./icons8-source-code-64.png" width="40px"/>Last FrontEnd projects carried out:</summary>
 <br>
-<a href="https://github.com/anuraghazra/convoychat">
+<p>
+  <a href="https://github.com/RodrigoNeoEx/Recips-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Recips-App&theme=chartreuse-dark" />
+  </a>
+   <a href="https://github.com/RodrigoNeoEx/StarWars-PlanetsSearch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=StarWars-PlanetsSearch&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/RodrigoNeoEx/Trivia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Trivia&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/RodrigoNeoEx/Wallet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Wallet&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/RodrigoNeoEx/React-Testing-Library">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=React-Testing-Library&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/RodrigoNeoEx/FrontEnd-Online-Store">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=FrontEnd-Online-Store&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/RodrigoNeoEx/Movie-Cards-Crud">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Movie-Cards-Crud&theme=chartreuse-dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Todo-List-V2&theme=chartreuse-dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Jest&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/RodrigoNeoEx/Movie-Cards-Library">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Movie-Cards-Library&theme=chartreuse-dark" />
+  </a>
+  <br>
+  <hr>
+  <summary><img src="./icons8-source-code-64.png" width="40px"/>Units Tests projects carried out:</summary>
+  <br>
+  <a href="https://github.com/RodrigoNeoEx/Jest">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Jest&theme=chartreuse-dark" /></a>
+  <a href="https://github.com/RodrigoNeoEx/Unit-Tests">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Unit-Tests&theme=chartreuse-dark" />
-</a>
+  </a>
+  <br>
+  <br>
+  <hr>
+  <summary><img src="./icons8-source-code-64.png" width="40px"/>First projects carried out:</summary>
+  <br>
+    <a href="https://github.com/RodrigoNeoEx/Pixels-Art">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Pixels-Art&theme=chartreuse-dark" />
+  </a>
+      <a href="https://github.com/RodrigoNeoEx/Todo-List-v2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Todo-List-V2&theme=chartreuse-dark" />
+  </a>
+      <a href="https://github.com/RodrigoNeoEx/Todo-List-v1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Todo-List-V1&theme=chartreuse-dark" />
+  </a>
+      <a href="https://github.com/RodrigoNeoEx/Shopping-Cart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Shopping-Cart&theme=chartreuse-dark" />
+  </a>
+      <a href="https://github.com/RodrigoNeoEx/Zoo-Functions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Zoo-Functions&theme=chartreuse-dark" />
+  </a>
+      <a href="https://github.com/RodrigoNeoEx/Facebook-SignUp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Facebook-SignUp&theme=chartreuse-dark" />
+  </a>
+      <a href="https://github.com/RodrigoNeoEx/Color-Guess">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Color-Guess&theme=chartreuse-dark" />
+  </a>
+      <a href="https://github.com/RodrigoNeoEx/Meme-Generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Meme-Generator&theme=chartreuse-dark" />
+  </a>
+</p>
 
 [website]: https://rodrigoneoex.github.io/neoPortfolio/
 [linkedin]: https://www.linkedin.com/in/rodrigocamargo-neoex/
