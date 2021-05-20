@@ -1,4 +1,4 @@
-## Hey! I'm Rodrigo - [RodrigoNeoEx][website] 👋
+## Hey! I'm Rodrigo [NeoEx][website] Camargo
 
 ### Completely in love with effects, design and all dynamics related to the front end.
 ### This is me!
