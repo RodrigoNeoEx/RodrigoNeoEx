@@ -49,7 +49,22 @@
 <br>
 <br>
 <hr>
-<summary><img src="./icons8-source-code-64.png" width="40px"/>Last FrontEnd projects carried out:</summary>
+<summary><img src="./icons8-source-code-64.png" width="40px"/>Last BackEnd projects carried out:</summary>
+<br>
+<p>
+  <a href="https://github.com/RodrigoNeoEx/All-for-one-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=All-for-one-&theme=chartreuse-dark" />
+  </a>
+    <a href="https://github.com/RodrigoNeoEx/Vocabulary-Booster">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Vocabulary-Booster&theme=chartreuse-dark" />
+  </a>
+    <a href="https://github.com/RodrigoNeoEx/One-for-All">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=One-for-All&theme=chartreuse-dark" />
+  </a>
+<br>
+<br>
+<hr>
+<summary><img src="./icons8-source-code-64.png" width="40px"/>Lasts FrontEnd projects carried out:</summary>
 <br>
 <p>
   <a href="https://github.com/RodrigoNeoEx/Recips-App">
