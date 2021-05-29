@@ -66,6 +66,7 @@
 <hr>
 <summary><img src="./icons8-source-code-64.png" width="40px"/>Lasts FrontEnd projects carried out:</summary>
 <br>
+ 🚧 under construction 🚧 
 <p>
   <a href="https://github.com/RodrigoNeoEx/Recips-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Recips-App&theme=chartreuse-dark" />
