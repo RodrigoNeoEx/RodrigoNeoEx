@@ -6,7 +6,7 @@
 </br>
 <hr>
 </br>
- <p><img src="./icons8-bookmark-64.png" width="30px"/> I’m currently learning MongoDbB and all stuffs related to backend </p>
+ <p><img src="./icons8-bookmark-64.png" width="30px"/> I’m currently learning NodeJS and all stuffs related to backend </p>
 
 <p><img src="./icons8-user-male-64.png" width="30px"/>I'm looking for my first formal opportunity as a dev with FrontEnd as a priority </p>
 
