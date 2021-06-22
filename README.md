@@ -6,7 +6,7 @@
 </br>
 <hr>
 </br>
- <p><img src="./icons8-bookmark-64.png" width="30px"/> I’m currently learning mySQL and all stuffs related to backend </p>
+ <p><img src="./icons8-bookmark-64.png" width="30px"/> I’m currently learning MongoDbB and all stuffs related to backend </p>
 
 <p><img src="./icons8-user-male-64.png" width="30px"/>I'm looking for my first formal opportunity as a dev with FrontEnd as a priority </p>
 
@@ -76,6 +76,9 @@
 <hr>
 <summary><img src="./icons8-source-code-64.png" width="40px"/>Lasts Front-end projects carried out:</summary>
 <br>
+
+ 🚧 under construction 🚧
+
   <a href="https://github.com/RodrigoNeoEx/Recips-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Recips-App&theme=chartreuse-dark" />
   </a>
