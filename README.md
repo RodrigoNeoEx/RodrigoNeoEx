@@ -35,6 +35,8 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="32px" src="./icons8-github-48.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="MongoDB" width="26px" src="./mongodb.png" />
+<img align="left" alt="NodeJS" width="26px" src="./nodejs.png" />
 
 <br />
 <br />
@@ -49,9 +51,17 @@
 <br>
 <br>
 <hr>
-<summary><img src="./icons8-source-code-64.png" width="40px"/>Last BackEnd projects carried out:</summary>
-<br>
 <p>
+<summary><img src="./icons8-source-code-64.png" width="40px"/>Personal Front-end projects carried out:</summary>
+<br>
+  <a href="https://github.com/RodrigoNeoEx/weather-call">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=weather-call&theme=chartreuse-dark" />
+  </a>
+<br>
+<br>
+<hr>
+<summary><img src="./icons8-source-code-64.png" width="40px"/>Last Back-end projects carried out:</summary>
+<br>
   <a href="https://github.com/RodrigoNeoEx/All-for-one-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=All-for-one-&theme=chartreuse-dark" />
   </a>
@@ -64,9 +74,8 @@
 <br>
 <br>
 <hr>
-<summary><img src="./icons8-source-code-64.png" width="40px"/>Lasts FrontEnd projects carried out:</summary>
+<summary><img src="./icons8-source-code-64.png" width="40px"/>Lasts Front-end projects carried out:</summary>
 <br>
-<p>
   <a href="https://github.com/RodrigoNeoEx/Recips-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Recips-App&theme=chartreuse-dark" />
   </a>
