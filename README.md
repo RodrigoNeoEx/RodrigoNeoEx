@@ -1,16 +1,20 @@
 ## Hey! I'm Rodrigo [NeoEx][website] Camargo
 
 ### Completely in love with effects, design and all dynamics related to the front end.
-### This is me!
-### My main job is full stack at family stack also studying a lot to be an awesome developer.Currently studying Full Stack Web Development at Trybe and looking for new challenges/jobs in the WebDev market
+##### A 35 year old family man and I'm in the middle of a career transition, that's me.
+##### I am currently a student at Trybe, which I believe has helped to finally identify me as a happy professional (completely in love with Front-end).
+##### Until now I was trained in Front-end where the main focus was ReactJS, React-Redux JavaScript CSS HTML and now I am starting my journey through the Back-end model so at the end of my training (11/2021) I will be a Full Stack MERN Developer Junior .
+##### I'm currently looking for more knowledge in mobile development, so my next steps are to study ReactNative.
+##### As a person and professional, I believe I can define myself in a few words: flexible, communicative and with a strong team spirit.
+
 </br>
 <hr>
 </br>
- <p><img src="./icons8-bookmark-64.png" width="30px"/> I’m currently learning MongoDbB and all stuffs related to backend </p>
+ <p><img src="./icons8-bookmark-64.png" width="30px"/> I'm currently learning NodeJs/Express and how can I do front-end integration with Back-end </p>
 
-<p><img src="./icons8-user-male-64.png" width="30px"/>I'm looking for my first formal opportunity as a dev with FrontEnd as a priority </p>
+<p><img src="./icons8-user-male-64.png" width="30px"/>I'm looking for my first formal opportunity as a dev with <strong>Front-end</strong> as a priority </p>
 
- <p><img src="./icons8-sun-64.png" width="30px"/>About Me: I love cats, music and most of the time I'm coding some visual kinds of stuff </p>
+ <p><img src="./icons8-sun-64.png" width="30px"/>About Me: I love cats, music and most of the time I'm coding some visual kinds of stuff. Already said i love Front-end? 😇 </p>
 </br>
 <hr>
 
@@ -57,6 +61,12 @@
   <a href="https://github.com/RodrigoNeoEx/weather-call">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=weather-call&theme=chartreuse-dark" />
   </a>
+    <a href="https://github.com/RodrigoNeoEx/teste-carrinho">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=teste-carrinho&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/RodrigoNeoEx/WebApp-AguaCosteira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=WebApp-AguaCosteira&theme=chartreuse-dark" />
+  </a>
 <br>
 <br>
 <hr>
@@ -71,14 +81,20 @@
     <a href="https://github.com/RodrigoNeoEx/One-for-All">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=One-for-All&theme=chartreuse-dark" />
   </a>
+    <a href="https://github.com/RodrigoNeoEx/MongoDB-DataFlights">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=MongoDB-DataFlights&theme=chartreuse-dark" />
+  </a>
+    <a href="https://github.com/RodrigoNeoEx/MongoDB-Commerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=MongoDB-Commerce&theme=chartreuse-dark" />
+  </a>
+    <a href="https://github.com/RodrigoNeoEx/MongoDB-Aggregations">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=MongoDB-Aggregations&theme=chartreuse-dark" />
+  </a>
 <br>
 <br>
 <hr>
 <summary><img src="./icons8-source-code-64.png" width="40px"/>Lasts Front-end projects carried out:</summary>
 <br>
-
- 🚧 under construction 🚧
-
   <a href="https://github.com/RodrigoNeoEx/Recips-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Recips-App&theme=chartreuse-dark" />
   </a>
