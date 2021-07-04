@@ -1,11 +1,11 @@
 ## Hey! I'm Rodrigo [NeoEx][website] Camargo
 
 ### Completely in love with effects, design and all dynamics related to the front end.
-##### A 35 year old family man and I'm in the middle of a career transition, that's me.
-##### I am currently a student at Trybe, which I believe has helped to finally identify me as a happy professional (completely in love with Front-end).
-##### Until now I was trained in Front-end where the main focus was ReactJS, React-Redux JavaScript CSS HTML and now I am starting my journey through the Back-end model so at the end of my training (11/2021) I will be a Full Stack MERN Developer Junior .
-##### I'm currently looking for more knowledge in mobile development, so my next steps are to study ReactNative.
-##### As a person and professional, I believe I can define myself in a few words: flexible, communicative and with a strong team spirit.
+#### A 35 year old family man and I'm in the middle of a career transition, that's me.
+#### I am currently a student at Trybe, which I believe has helped to finally identify me as a happy professional (completely in love with Front-end).
+#### Until now I was trained in Front-end where the main focus was ReactJS, React-Redux JavaScript CSS HTML and now I am starting my journey through the Back-end model so at the end of my training (11/2021) I will be a Full Stack MERN Developer Junior .
+#### I'm currently looking for more knowledge in mobile development, so my next steps are to study ReactNative.
+#### As a person and professional, I believe I can define myself in a few words: flexible, communicative and with a strong team spirit.
 
 </br>
 <hr>
