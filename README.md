@@ -10,6 +10,7 @@
 </br>
 <hr>
 </br>
+
  <p><img src="./icons8-bookmark-64.png" width="30px"/> I'm currently learning NodeJs/Express and how can I do front-end integration with Back-end </p>
 
 <p><img src="./icons8-user-male-64.png" width="30px"/>I'm looking for my first formal opportunity as a dev with <strong>Front-end</strong> as a priority </p>
