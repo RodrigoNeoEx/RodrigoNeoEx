@@ -55,7 +55,7 @@
 </a>
 <br>
 <br>
-<hr>
+<hr> 
 <p>
 <summary><img src="./icons8-source-code-64.png" width="40px"/>Personal Front-end projects carried out:</summary>
 <br>
@@ -67,6 +67,9 @@
   </a>
   <a href="https://github.com/RodrigoNeoEx/WebApp-AguaCosteira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=WebApp-AguaCosteira&theme=chartreuse-dark" />
+  </a>
+   <a href="https://github.com/RodrigoNeoEx/Trasnlation.inc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoNeoEx&repo=Trasnlation.inc&theme=chartreuse-dark" />
   </a>
 <br>
 <br>
