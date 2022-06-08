@@ -9,9 +9,9 @@
 <hr>
 </br>
 
- <p><img src="./icons8-bookmark-64.png" width="30px"/> I'm currently learning NodeJs/Express and how can I do front-end integration with Back-end </p>
+ <p><img src="./icons8-bookmark-64.png" width="30px"/> I'm currently learning Dart/Flutter</p>
 
-<p><img src="./icons8-user-male-64.png" width="30px"/>I'm looking for my first formal opportunity as a dev with <strong>Front-end</strong> as a priority </p>
+<p><img src="./icons8-user-male-64.png" width="30px"/>I'm looking for more knowledge and new oportunitys in FrontEnd </p>
 
  <p><img src="./icons8-sun-64.png" width="30px"/>About Me: I love cats, music and most of the time I'm coding some visual kinds of stuff. Already said i love Front-end? 😇 </p>
 </br>
