@@ -1,17 +1,16 @@
 ## Hey! I'm Rodrigo [NeoEx][website] Camargo
 
-### Father of a family and with a career transition started at 35 and in full swing, that's me.
-#### I started my training as a developer at Trybe, where I believe I have helped to finally identify myself as a happy professional and I continue to improve myself using other course platforms.
-#### Currently graduated as a Full Stack Developer MERN, my focus is on improving my skills in Front-end tools and Mobile development (Flutter)
-#### As a person and professional, I believe I can be defined in a few words: flexible, communicative and with a strong team spirit.
+### As a professional, I am *dynamic*, with experience in IT project management and *strong communication skills and teamwork abilities*.
+### With an integrated vision of business, acquired through experiences in different areas, I am able to *align IT needs with the strategic objectives of the company*.
+### I am adaptable and *solution-oriented*, always ready to face new challenges with a practical and collaborative approach, *driving results that add value and growth*.
 
 </br>
 <hr>
 </br>
 
- <p><img src="./icons8-bookmark-64.png" width="30px"/> I'm currently learning Dart/Flutter</p>
+ <p><img src="./icons8-bookmark-64.png" width="30px"/> I'm currently studying new libs and tools for front </p>
 
-<p><img src="./icons8-user-male-64.png" width="30px"/>I'm looking for more knowledge and new oportunitys in FrontEnd </p>
+<p><img src="./icons8-user-male-64.png" width="30px"/>I'm looking for more knowledge and new oportunitys in FrontEnd or Project Mananger IT </p>
 
  <p><img src="./icons8-sun-64.png" width="30px"/>About Me: I love cats, music and most of the time I'm coding some visual kinds of stuff. Already said i love Front-end? 😇 </p>
 </br>
