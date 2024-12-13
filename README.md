@@ -41,10 +41,13 @@
 <img align="left" alt="NodeJS" width="35px" src="./nodejs.png" />
 <img align="left" alt="NodeJS" width="35px" src="./icons8-typescript-48.png" />
 <img align="left" alt="NodeJS" width="35px" src="./icons8-angular-48.png" />
+<br />
+<br />
+<br />
 <img align="left" alt="NodeJS" width="35px" src="./icons8-vue-js-50.png" />
 <img align="left" alt="NodeJS" width="35px" src="./styled.png" />
 <img align="left" alt="NodeJS" width="35px" src="./icons8-typescript-48.png" />
-<img align="left" alt="NodeJS" width="35px" src="./tail.png" />
+<img align="left" alt="NodeJS" width="60px" src="./tail.png" />
 
 <br />
 <br />
