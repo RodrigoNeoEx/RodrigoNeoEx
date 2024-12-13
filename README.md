@@ -18,7 +18,7 @@
 
 <p> <h3>Connect with me: </h3>
 
-[<img align="left" alt="gitHub" width="40px" color="white" src="./icons8-github-64.png" />][website]
+[<img align="left" alt="gitHub" width="40px" color="white" src="./icons8-www.svg" />][website]
 [<img align="left" alt="LinkedIn" width="40px" src="./icons8-linkedin-64.png" />][linkedin]
 [<img align="left" alt="codePen" width="40px" src="./icons8-codepen-50.png" />][codePen]
 </p>
@@ -27,18 +27,24 @@
 <h3>Languages and Tools:
 <br>
 <br>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="32px" src="./icons8-github-48.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="MongoDB" width="26px" src="./mongodb.png" />
-<img align="left" alt="NodeJS" width="26px" src="./nodejs.png" />
+<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="MongoDB" width="35px" src="./mongodb.png" />
+<img align="left" alt="NodeJS" width="35px" src="./nodejs.png" />
+<img align="left" alt="NodeJS" width="35px" src="./icons8-typescript-48.png" />
+<img align="left" alt="NodeJS" width="35px" src="./icons8-angular-48.png" />
+<img align="left" alt="NodeJS" width="35px" src="./icons8-vue-js-50.png" />
+<img align="left" alt="NodeJS" width="35px" src="./styled.png" />
+<img align="left" alt="NodeJS" width="35px" src="./icons8-typescript-48.png" />
+<img align="left" alt="NodeJS" width="35px" src="./tail.png" />
 
 <br />
 <br />
@@ -160,6 +166,6 @@
   </a>
 </p>
 
-[website]: https://rodrigoneoex.github.io/neoPortfolio/
+[website]: https://neoex-portfolio.vercel.app/
 [linkedin]: https://www.linkedin.com/in/rodrigocamargo-neoex/
 [codePen]: https://codepen.io/rodrigoneoex
